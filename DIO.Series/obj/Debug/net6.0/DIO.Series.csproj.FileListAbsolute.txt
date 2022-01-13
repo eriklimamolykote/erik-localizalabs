@@ -1,0 +1,15 @@
+/home/erik/Área de Trabalho/erik-localizalabs/DIO.Series/bin/Debug/net6.0/DIO.Series
+/home/erik/Área de Trabalho/erik-localizalabs/DIO.Series/bin/Debug/net6.0/DIO.Series.deps.json
+/home/erik/Área de Trabalho/erik-localizalabs/DIO.Series/bin/Debug/net6.0/DIO.Series.runtimeconfig.json
+/home/erik/Área de Trabalho/erik-localizalabs/DIO.Series/bin/Debug/net6.0/DIO.Series.dll
+/home/erik/Área de Trabalho/erik-localizalabs/DIO.Series/bin/Debug/net6.0/ref/DIO.Series.dll
+/home/erik/Área de Trabalho/erik-localizalabs/DIO.Series/bin/Debug/net6.0/DIO.Series.pdb
+/home/erik/Área de Trabalho/erik-localizalabs/DIO.Series/obj/Debug/net6.0/DIO.Series.csproj.AssemblyReference.cache
+/home/erik/Área de Trabalho/erik-localizalabs/DIO.Series/obj/Debug/net6.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/erik/Área de Trabalho/erik-localizalabs/DIO.Series/obj/Debug/net6.0/DIO.Series.AssemblyInfoInputs.cache
+/home/erik/Área de Trabalho/erik-localizalabs/DIO.Series/obj/Debug/net6.0/DIO.Series.AssemblyInfo.cs
+/home/erik/Área de Trabalho/erik-localizalabs/DIO.Series/obj/Debug/net6.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/erik/Área de Trabalho/erik-localizalabs/DIO.Series/obj/Debug/net6.0/DIO.Series.dll
+/home/erik/Área de Trabalho/erik-localizalabs/DIO.Series/obj/Debug/net6.0/ref/DIO.Series.dll
+/home/erik/Área de Trabalho/erik-localizalabs/DIO.Series/obj/Debug/net6.0/DIO.Series.pdb
+/home/erik/Área de Trabalho/erik-localizalabs/DIO.Series/obj/Debug/net6.0/DIO.Series.genruntimeconfig.cache
